@@ -1,0 +1,22 @@
+Class node(prevNode) {
+    Private char* prev;
+    Private char *next;
+    Private class Data;
+
+     Function node(prevNode) {
+        This.setprev(getprev(prevNode.next);
+    }
+
+    Private char function getprev() {
+        Return this.*prev;
+    }
+    Private void function setprev(p)
+         Prev*;
+    }
+   Private char function getnext() {
+          Return this.next;
+    }
+    Private void function setnext(n){
+          Next*;
+    }
+}
